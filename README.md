@@ -2,12 +2,15 @@
 A python script to convert given text to handwriting using OpenCV.
 
 ## Requirements
-```pip install pywhatkit
 ```
-```pip install opencv-python
+pip install pywhatkit
+```
+```
+pip install opencv-python
 ```
 ## Installation and Setup
-```git clone https://github.com/yashul117/Text-to-Handwriting.git
+```
+git clone https://github.com/yashul117/Text-to-Handwriting.git
 ```
 ## Input
 Suppose I give the following text, the python script will convert the text to a png image file.
