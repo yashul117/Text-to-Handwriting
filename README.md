@@ -1,12 +1,18 @@
 # Text to handwriting using Python
-A python program to convert some given text to a natural handwritten looking image.
+A python script to convert given text to handwriting using OpenCV.
 
-## Installation and Setup
+## Requirements
+```pip install pywhatkit
 ```
-git clone https://github.com/whoparthgarg/House-Price-Prediction
+```pip install opencv-python
+```
+## Installation and Setup
+```git clone https://github.com/yashul117/Text-to-Handwriting.git
 ```
 ## Input
-Scarcity means that there are fewer resources than are needed to fill human wants and needs. These resources can come from the land, labor resources or capital resources. Keep reading for scarcity examples that you may see on a global economic level or in your everyday life.
+Suppose I give the following text, the python script will convert the text to a png image file.
+
+"Hey guys, this is Yashul Tyagi. I am a software developer from Ghaziabad, Uttar Pradesh, India."
 
 ## Output
 <center><img src="handwriting.png" alt="logo"></center>
